@@ -6,7 +6,7 @@
 - 📫 How to reach me: ikramberroug24@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/ikram-berroug-7b8195293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ikram-berroug-7b8195293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-profile" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/ikramberroug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
 <a href="mailto:ikramberroug24@example.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="40"/></a>
 </p>
